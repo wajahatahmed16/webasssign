@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.formbody {
+    overflow: hidden;
+    padding-top: 1%;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: blueviolet;
+    color: white;
+}
+
+.mtableBody {
+    width: 100%;
+}
+
+.mtableBody tr td {
+    padding: 10px;
+}
+
+.mtableBody tr td input,
+select {
+    height: 25px;
+}
+
+.mtableBody tr:first-child {
+    width: 70%;
+}
+
+.marks tr td {
+    padding: 2px;
+}

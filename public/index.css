@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    color: white;
+    padding-top: 10px;
+    padding-left: 4px;
+    background-color: lightgreen;
+    height: 50px;
+    font-size: 30px;
+    vertical-align: text-bottom;
+    border-radius: 0px 0px 50px 10px;
+}

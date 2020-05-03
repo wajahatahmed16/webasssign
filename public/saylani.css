@@ -1,0 +1,158 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-top {
+    padding-top: 8px;
+    padding-bottom: -4px;
+    background-color: #316dc3;
+    color: #fff;
+    padding-left: 50px;
+}
+
+.head-icon {
+    padding: 5px;
+    margin-left: 50px;
+}
+
+.head-icon img {
+    margin-right: 10px;
+}
+
+.saylani-nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.nav-saylani-list li a {
+    padding: 5px 15px 5px 15px !important;
+    font-size: small;
+    font-weight: bolds;
+    text-align: center;
+    padding: 10px;
+    border-radius: 30px;
+    transition: background-color 0.5s;
+    color: black !important;
+}
+
+.dmenus {
+    margin-top: 28px;
+}
+
+.dmenus a {
+    border-radius: 0px !important;
+}
+
+.nav-saylani-list li a:hover {
+    background-color: #316dc3;
+    color: #fff !important;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.news {
+    margin-top: 10px;
+    background-color: #316dc3;
+    color: #fff;
+}
+
+.intro {
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.intro-break {
+    font-weight: bold;
+}
+
+.intro-content {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+.intro-content p {
+    text-align: justify;
+    margin-top: 10px;
+}
+
+.content-numbers {
+    background-color: #2755e9;
+    color: #fff;
+}
+
+.num-part {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.num-part div {
+    margin-bottom: 10px;
+}
+
+.box-shadow11 {
+    padding: 20px;
+    -webkit-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    -moz-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+}
+
+.b-items {
+    padding: 40px;
+}
+
+.b-items .row div {
+    padding: 20px;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 2em;
+}
+
+.projects-body {
+    padding: 40px;
+    color: #316dc3;
+    font-weight: bold;
+}
+
+.image-gallary {
+    padding: 20px;
+}
+
+.thumbnail {
+    width: 250px;
+    max-width: 250px;
+    overflow: hidden;
+}
+
+.img-ease {
+    width: 200px;
+    transition: all ease-in-out 300ms;
+}
+
+.img-ease:hover {
+    transform: scale(1.3);
+}
+
+.footer {
+    font-size: 12px;
+    color: #fff;
+    margin-top: 150px;
+    padding: 40px;
+    background-color: #25272e;
+}
+
+.footer-social img {
+    margin-left: 10px;
+}
+
+.addressbar {
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background-color: #316dd9;
+    color: #fff;
+}
